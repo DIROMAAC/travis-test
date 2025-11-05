@@ -6,8 +6,8 @@ import os
 
 path = 'images_r'
 orb = cv2.ORB_create(nfeatures=1000)
-
-images = []
+apfnadnfknadfnsd
+images = [
 classNames = []
 myList = os.listdir(path)
 for cl in myList:
